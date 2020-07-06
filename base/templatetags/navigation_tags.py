@@ -2,7 +2,7 @@ from django import template
 
 from wagtail.core.models import Page, Site
 
-from bakerydemo.base.models import FooterText
+from base.models import FooterText
 
 
 register = template.Library()
