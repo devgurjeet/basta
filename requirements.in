@@ -4,3 +4,5 @@ https://control.divio.com/api/v1/apps/serve/aldryn-django/2.2.14.1/d9db6707-c6e3
 https://control.divio.com/api/v1/apps/serve/aldryn-sso/1.7.0/3ef75ae5-729a-4c44-ac3e-fa5950511e90/aldryn-sso-1.7.0.tar.gz#egg=aldryn-sso==1.7.0
 https://control.divio.com/api/v1/apps/serve/aldryn-wagtail/2.9.2.1/e5bce99e-f5ef-4002-8483-370a81e5338f/aldryn-wagtail-2.9.2.1.tar.gz#egg=aldryn-wagtail==2.9.2.1
 # </INSTALLED_ADDONS>
+wagtailfontawesome>=1.1.3,<1.2
+
