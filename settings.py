@@ -48,6 +48,8 @@ INSTALLED_APPS.extend([
     'blog',
     'breads',
     'locations',
+
+    'wagtailfontawesome',
 ])
 
 # To see the settings that have been applied, use the Django diffsettings 
